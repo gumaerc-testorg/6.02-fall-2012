@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: Spectral Representation of Signals'
 uid: 77b46090-fd61-20ea-5957-38f728a00f7b
 video_files:
   archive_url: http://www.archive.org/download/MIT6.02F12/MIT6_02F12_lec14_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/c2a29def6180511d98f2fa4b29d11055_U1sAeMwdm6A.vtt
+  video_captions_file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/c2a29def6180511d98f2fa4b29d11055_U1sAeMwdm6A.vtt
   video_thumbnail_file: https://img.youtube.com/vi/U1sAeMwdm6A/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/c9651b26578f51a70b5c218f0161d275_U1sAeMwdm6A.pdf
+  video_transcript_file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/c9651b26578f51a70b5c218f0161d275_U1sAeMwdm6A.pdf
 video_metadata:
   youtube_id: U1sAeMwdm6A
 ---

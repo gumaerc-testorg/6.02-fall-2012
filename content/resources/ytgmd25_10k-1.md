@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/20a577dae804ed77154974ffc5a73799_ytGmd25_10k.pdf
+file: /media/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/20a577dae804ed77154974ffc5a73799_ytGmd25_10k.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 20a577da-e804-ed77-1549-74ffc5a73799

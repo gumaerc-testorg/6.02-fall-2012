@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 83069da5-d3b4-531b-dd45-1bd51850dba6
 ---
@@ -66,7 +69,7 @@ SUPPORTING FILES
 {{< tdopen >}}
 [Problem set 4 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit6_02f12_ps4)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Audiocom (ZIP)]({{< baseurl >}}/resources/audiocom) (This ZIP file contains: 17 .py files and 4 .pyc files.)
