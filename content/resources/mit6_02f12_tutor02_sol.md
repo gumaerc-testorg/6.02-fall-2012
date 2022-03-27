@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: 50216f2a-736c-9553-2555-2defe4b0c19f
 resourcetype: Document
 title: 6.02 Tutorial 2 Solutions
 uid: a4255385-5f6a-e34e-4fbf-ab2389d0f322

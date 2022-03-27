@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 43bcc3e8-ea29-e5d6-f9ca-9dfe5f636a71
 resourcetype: Document
 title: '6.02 Notes, Chapter 16: Communication Networks: Sharing and Switches'
 uid: 950e349a-9779-e491-0004-26ccb218746e

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: e65fa757-3838-8b28-7b7b-87fbbe0b67c7
 resourcetype: Document
 title: 6.02 Introduction to EECS II, Quiz 1
 uid: 0b549abc-3319-0c17-0fab-b3709410231e

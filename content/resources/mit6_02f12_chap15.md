@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 43bcc3e8-ea29-e5d6-f9ca-9dfe5f636a71
 resourcetype: Document
 title: '6.02 Notes, Chapter 15: Sharing a Channel: Media Access (MAC) Protocols'
 uid: 308c589e-958e-3d07-3568-bde00a63ac76

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 43bcc3e8-ea29-e5d6-f9ca-9dfe5f636a71
 resourcetype: Document
 title: '6.02 Lecture 9: Transmitting on a physical channel'
 uid: 56d958fd-ed20-5681-d34f-ab3eac4b7ab5
