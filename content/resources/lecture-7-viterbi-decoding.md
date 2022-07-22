@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture starts with a review of encoding and decoding. The Viterbi algorithm, which includes a branch metric and a path metric, is introduced as a way to find the maximum-likelihood path during decoding.
 
 **Instructor:** George Verghese
+

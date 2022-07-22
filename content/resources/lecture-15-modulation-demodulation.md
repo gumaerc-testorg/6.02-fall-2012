@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture introduces phase characteristic in the frequency response, and the derivation of DTFT for a rectangular pulse. An example of how to send a pulse over a low-pass and a bandpass channel opens discussion about modulation and demodulation.
 
 **Instructor:** George Verghese
+

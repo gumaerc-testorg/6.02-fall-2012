@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture starts with historical applications of error control and convolutional codes in space programs. Convolutional codes are introduced along with examples and transformations in shift-register, state-machine, and trellis view.
 
 **Instructor:** George Verghese
+

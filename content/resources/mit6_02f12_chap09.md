@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/56d958fded205681d34fab3eac4b7ab5_MIT6_02F12_chap09.pdf
+file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/56d958fded205681d34fab3eac4b7ab5_MIT6_02F12_chap09.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

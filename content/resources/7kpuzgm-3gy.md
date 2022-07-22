@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/6dcbb50c76c8ac928a997500c5ac95ac_7kpuZgm-3GY.srt
+file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/6dcbb50c76c8ac928a997500c5ac95ac_7kpuZgm-3GY.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

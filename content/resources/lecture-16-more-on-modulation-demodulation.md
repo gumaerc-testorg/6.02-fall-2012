@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture starts with applying FFT for a finite duration and the difference between DTFT and DTFS. The remainder of the lecture covers the demodulation frequency diagram, correcting error in demodulation and phase ambiguity, and multiple trasnmitters.
 
 **Instructor:** George Verghese
+

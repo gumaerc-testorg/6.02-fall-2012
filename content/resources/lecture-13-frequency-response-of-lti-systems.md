@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture continues the discussion of properties of the frequency response and the shift from time to frequency domain. Examples of deconvolution in frequency-domain view, designing an ideal low-pass filter, and spectral decomposition are provided.
 
 **Instructor:** George Verghese
+

@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture covers modeling channel behavior, relating the unit sample and step responses, decomposing a signal into unit samples, modeling LTI systems, and properties of convolutions.
 
 **Instructor:** George Verghese
+

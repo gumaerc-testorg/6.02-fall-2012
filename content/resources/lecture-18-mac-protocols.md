@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture focuses on shared media networks and shared communications channels. Measures for optimization such as utilization, fairness, and bounded delay are introduced, along with an example model using slotted and stabilized Aloha.
 
 **Instructor:** Hari Balakrishnan
+

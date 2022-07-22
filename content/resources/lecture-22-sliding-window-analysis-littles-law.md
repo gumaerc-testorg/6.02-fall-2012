@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture continues with an analysis of sliding window protocol and how it handles packet loss. Little's Law is introduced to relate the average number of packets to the average service rate and average delay of a stable system.
 
 **Instructor:** Hari Balakrishnan
+

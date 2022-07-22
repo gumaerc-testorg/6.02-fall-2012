@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture covers implementation of TCP and providing reliable data transfer. The stop-and-wait and sliding window protocols are discussed with their benefits and disadvantages in preventing lost or duplicate packets.
 
 **Instructor:** Hari Balakrishnan
+

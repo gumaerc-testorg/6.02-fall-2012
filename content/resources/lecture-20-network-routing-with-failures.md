@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture continues to cover routing protocols within the context of failure. Failure resilience for the different protocols is discussed along with the solution of periodic communication for eventual convergence.
 
 **Instructor:** Hari Balakrishnan
+

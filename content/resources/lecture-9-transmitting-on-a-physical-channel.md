@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture begins with background on probability for working with random variables. Conversion, and signal modulation and demodulation are explained. The unit step and sample are introduced alongside time invariant and linear systems.
 
 **Instructor:** George Verghese
+

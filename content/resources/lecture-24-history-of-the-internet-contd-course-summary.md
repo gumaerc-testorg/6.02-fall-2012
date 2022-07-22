@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture continues the history of the Internet through the recent decades and addresses problems such as rapid growth, congestion, service attacks, and security threats. A summary of the course content is then presented at the end.
 
 **Instructor:** Hari Balakrishnan
+

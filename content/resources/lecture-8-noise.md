@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture introduces a noise model based on a Gaussian random variable. Background on calculating mean and variance of probability density function is given alongside steps to estimate noise parameters and calculate bit energy.
 
 **Instructor:** George Verghese
+

@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +29,4 @@ video_metadata:
 **Description:** This lecture continues to explore error correction through a closer look at the generator matrix and the parity check matrix. Syndrome decoding is presented in its matrix form by example, and better error protection is discussed afterward.
 
 **Instructor:** George Verghese
+
