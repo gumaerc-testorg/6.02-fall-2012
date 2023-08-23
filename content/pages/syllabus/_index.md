@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on course objectives, prerequisites,
+  meeting times, software, problem sets, participation, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Recitations: 2 sessions / week, 1 hour / session
 Prerequisites
 -------------
 
-[18.03](/courses/18-03sc-differential-equations-fall-2011/), [6.01](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/). The problem sets involve programming; they require knowledge of Python at the level of [6.00](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) or [6.01](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/).
+[18.03](/courses/18-03sc-differential-equations-fall-2011), [6.01](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011). The problem sets involve programming; they require knowledge of Python at the level of [6.00](/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011) or [6.01](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011).
 
 Course Objectives
 -----------------
@@ -42,7 +44,7 @@ At the end of the course, a successful student will understand these topics and 
 Software
 --------
 
-[Instructions for setting up the 6.02 environment on your computer]({{< baseurl >}}/pages/syllabus/software)
+{{% resource_link ce720f9a-7dbb-d506-7a90-cdac312f0518 "Instructions for setting up the 6.02 environment on your computer" %}}
 
 Problem Sets
 ------------
