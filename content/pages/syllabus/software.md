@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains instructions for installing Python and other software
+  needed for 6.02, on Windows and Mac OS X.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
