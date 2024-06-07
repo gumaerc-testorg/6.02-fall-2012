@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/65eb90a06cc458cbb4a0c56c125d74d8_oIezCGjxV3A.vtt
+file_size: 86613
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

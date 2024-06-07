@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding 6.02 introduction to EECS II,
   quiz 2.
 file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/5e20fd86bf643a4ff77377cbebac7238_MIT6_02F12_quiz2.pdf
+file_size: 286954
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding frequency response of LTI systems.
 file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/43ab3e7240ebab8bbdcde3a8601abdac_MIT6_02F12_chap12.pdf
+file_size: 875032
 file_type: application/pdf
 learning_resource_types:
 - Readings

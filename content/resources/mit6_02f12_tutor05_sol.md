@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding tutorial 5 solutions.
 file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/e6f89e3e1fcc08ba085f4177c7c9c2a1_MIT6_02F12_tutor05_sol.pdf
+file_size: 624825
 file_type: application/pdf
 learning_resource_types:
 - Tutorials
