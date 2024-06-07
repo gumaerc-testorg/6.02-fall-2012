@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file for problem set 7.
 file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/54bf802a2e1d3589d3d4c10f7a03227c_ps7.zip
+file_size: 15432
 file_type: application/zip
 learning_resource_types:
 - Assignments
