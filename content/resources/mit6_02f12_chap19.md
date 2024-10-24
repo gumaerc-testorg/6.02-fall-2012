@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding reliable data transport protocols.
-file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/2d3a62fd8f18f6bf69c70bc73f7d6ca9_MIT6_02F12_chap19.pdf
+file: /ol-ocw-studio-app/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/2d3a62fd8f18f6bf69c70bc73f7d6ca9_MIT6_02F12_chap19.pdf
 file_size: 898871
 file_type: application/pdf
 learning_resource_types:

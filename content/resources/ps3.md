@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file for problem set 3.
-file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/5c1879b8636107f8e2384258caf71980_ps3.zip
+file: /ol-ocw-studio-app/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/5c1879b8636107f8e2384258caf71980_ps3.zip
 file_size: 5648
 file_type: application/zip
 learning_resource_types:
