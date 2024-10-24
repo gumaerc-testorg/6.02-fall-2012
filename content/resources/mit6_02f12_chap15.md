@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding sharing a channel: media access
   (MAC) protocols.'
-file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/308c589e958e3d073568bde00a63ac76_MIT6_02F12_chap15.pdf
+file: /ol-ocw-studio-app/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/308c589e958e3d073568bde00a63ac76_MIT6_02F12_chap15.pdf
 file_size: 487492
 file_type: application/pdf
 learning_resource_types:

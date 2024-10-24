@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding LTI models and convolution.
-file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/c99c8b2514977bc7f008aa8f69dfe9ad_MIT6_02F12_chap11.pdf
+file: /ol-ocw-studio-app/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/c99c8b2514977bc7f008aa8f69dfe9ad_MIT6_02F12_chap11.pdf
 file_size: 711253
 file_type: application/pdf
 learning_resource_types:
