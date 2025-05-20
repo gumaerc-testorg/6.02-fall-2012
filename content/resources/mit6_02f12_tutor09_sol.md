@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding tutorial 9 solutions.
-file: /ol-ocw-studio-app/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/1524661f19778fc7025a41b6ae83663e_MIT6_02F12_tutor09_sol.pdf
+file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/1524661f19778fc7025a41b6ae83663e_MIT6_02F12_tutor09_sol.pdf
 file_size: 135022
 file_type: application/pdf
 learning_resource_types:

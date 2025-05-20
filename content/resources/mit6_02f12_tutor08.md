@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding tutorial 8.
-file: /ol-ocw-studio-app/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/986ec2b4d4872b15662d9d6e0acd8412_MIT6_02F12_tutor08.pdf
+file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/986ec2b4d4872b15662d9d6e0acd8412_MIT6_02F12_tutor08.pdf
 file_size: 152010
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding why digital? communication abstractions
   and digital signaling.
-file: /ol-ocw-studio-app/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/4768bbb256ef6c9a3fd9330c2a124aca_MIT6_02F12_chap04.pdf
+file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/4768bbb256ef6c9a3fd9330c2a124aca_MIT6_02F12_chap04.pdf
 file_size: 1289667
 file_type: application/pdf
 learning_resource_types:
