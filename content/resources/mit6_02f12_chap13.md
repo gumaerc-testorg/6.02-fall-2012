@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding fourier analysis and spectral
   representation of signals.
-file: /ol-ocw-studio-app/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/06d7972059805d20e6a7db3a52ec23f2_MIT6_02F12_chap13.pdf
+file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/06d7972059805d20e6a7db3a52ec23f2_MIT6_02F12_chap13.pdf
 file_size: 684556
 file_type: application/pdf
 learning_resource_types:
