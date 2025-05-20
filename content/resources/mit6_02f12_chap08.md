@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding viterbi decoding of convolutional
   codes.
-file: /ol-ocw-studio-app/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/effb4e0089fd355258e96dd8277bbc2b_MIT6_02F12_chap08.pdf
+file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/effb4e0089fd355258e96dd8277bbc2b_MIT6_02F12_chap08.pdf
 file_size: 1453766
 file_type: application/pdf
 learning_resource_types:
