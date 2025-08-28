@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding convolutional codes: construction
   and encoding.'
-file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/6bb326417ac947837cce79d334c8ac1c_MIT6_02F12_chap07.pdf
+file: /ol-ocw-studio-app/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/6bb326417ac947837cce79d334c8ac1c_MIT6_02F12_chap07.pdf
 file_size: 554024
 file_type: application/pdf
 learning_resource_types:
