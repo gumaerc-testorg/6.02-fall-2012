@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/6fb1d88aaf5f8d2e9e7655158d1c4408_MIT6_02F12_chap10.pdf
+file: /ol-ocw-studio-app/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/6fb1d88aaf5f8d2e9e7655158d1c4408_MIT6_02F12_chap10.pdf
 file_size: 305809
 file_type: application/pdf
 learning_resource_types:
