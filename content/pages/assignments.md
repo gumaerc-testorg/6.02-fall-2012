@@ -76,7 +76,7 @@ SUPPORTING FILES
 
 {{% resource_link 1661daa0-bc7e-485c-de13-dfbd07215169 "Audiocom (ZIP)" %}} (This ZIP file contains: 17 .py files and 4 .pyc files.)
 
-[6.02 Audiocom documentation](http://audiocom602.blogspot.com/)
+{{% resource_link "0d9852e6-52ca-4bb7-abb2-5eeffe4c9914" "6.02 Audiocom documentation" %}}
 
 
 {{< tdclose >}}

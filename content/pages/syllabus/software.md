@@ -16,13 +16,13 @@ You will need to download and install the software we'll be using. Stand-alone i
 Windows
 -------
 
-[Python (2.7.x)](http://python.org/download/)
+{{% resource_link "385d58e2-bc0f-47fd-ae88-e8eb6e84b11f" "Python (2.7.x)" %}}
 
-[wxPython (2.8 Unicode for Python 2.7)](http://www.wxpython.org/download.php)
+{{% resource_link "52c04cb2-91c2-4b49-8a8f-b604565e3018" "wxPython (2.8 Unicode for Python 2.7)" %}}
 
-[numpy (1.5.1 for Python 2.7)](http://sourceforge.net/projects/numpy/files/NumPy/1.5.1/)
+{{% resource_link "c6540131-f0ea-4a00-be2e-58937c115338" "numpy (1.5.1 for Python 2.7)" %}}
 
-[matplotlib (1.0.1 for Python 2.7)](http://sourceforge.net/projects/matplotlib/files/)
+{{% resource_link "0dfa59e0-c924-4ac3-89ed-d4af787209fd" "matplotlib (1.0.1 for Python 2.7)" %}}
 
 If you're working at home, use "idle -n" to edit and run your code; an integrated development environment makes the work go more swiftly.
 
@@ -31,15 +31,15 @@ Mac OS X 10.6
 
 Here are the current packages for the latest Mac OS X releases (you'll want to go with the 32-bit versions as some of the math libraries we use aren't yet available as 64-bit versions):
 
-[Python (2.7.1 for Mac OS X 10.3–10.6) (DMG)](http://python.org/ftp/python/2.7.1/python-2.7.1-macosx10.3.dmg)
+{{% resource_link "46d92a84-1074-41a2-8c60-e6dab9d8d290" "Python (2.7.1 for Mac OS X 10.3–10.6) (DMG)" %}}
 
-[wxPython (2.8 Unicode for Python 2.7) (DMG)](http://downloads.sourceforge.net/wxpython/wxPython2.8-osx-unicode-2.8.11.0-universal-py2.7.dmg)
+{{% resource_link "b0717bd5-c1d8-4d3f-83bb-05d0b673773b" "wxPython (2.8 Unicode for Python 2.7) (DMG)" %}}
 
-[numpy (1.5.1 for Python 2.7) (DMG)](http://sourceforge.net/projects/numpy/files/NumPy/1.5.1/numpy-1.5.1-py2.7-python.org-macosx10.5.dmg/download)
+{{% resource_link "5af648e2-d19c-40d8-957f-5e02bb7ef1ab" "numpy (1.5.1 for Python 2.7) (DMG)" %}}
 
-[matplotlib (1.0.1 for Python 2.7) (DMG)](http://sourceforge.net/projects/matplotlib/files/matplotlib/matplotlib-1.0.1/matplotlib-1.0.1-python.org-32bit-py2.7-macosx10.3.dmg/download)
+{{% resource_link "b7852a2d-7c68-48ed-b2d0-92c1c90ed8ad" "matplotlib (1.0.1 for Python 2.7) (DMG)" %}}
 
 64-bit Windows
 --------------
 
-A large collection of 64-bit Windows packages is available at [Python Extension Packages for Windows](http://www.lfd.uci.edu/~gohlke/pythonlibs/). It contains numpy, as well as most everything else you need for Python.
+A large collection of 64-bit Windows packages is available at {{% resource_link "0eae9454-add8-481f-9df8-dfb4c389d1b4" "Python Extension Packages for Windows" %}}. It contains numpy, as well as most everything else you need for Python.
